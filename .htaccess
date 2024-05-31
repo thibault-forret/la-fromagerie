@@ -1,0 +1,15 @@
+RewriteEngine On
+
+RewriteBase /
+
+RewriteCond %{REQUEST_URI} !(/$|\.)
+RewriteRule (.*) %{REQUEST_URI}/ [R=301,L]
+
+RewriteRule ^api/$ index.php?pageAPI=APIListe
+RewriteRule ^api/([a-zA-Z]+)/$ index.php?pageAPI=$1
+RewriteRule ^api/([a-zA-Z]+)/([0-9]+)/$  index.php?pageAPI=$1&id=$2
+
+
+RewriteRule ^([a-zA-Z-]+)/$ index.php?page=$1
+RewriteRule ^([a-zA-Z-]+)/([0-9]+)/$ index.php?page=$1&id=$2
+RewriteRule ^([a-zA-Z-]+)/([a-zA-Z0-9-]+)/$ index.php?page=$1&identifiant=$2
