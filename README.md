@@ -1,2 +1,2 @@
 # la-fromagerie
-Projet BUT Informatique - Site E-Commerce
+Projet BUT2 Informatique - Site E-Commerce
