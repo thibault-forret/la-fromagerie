@@ -7,6 +7,7 @@ Ce projet est un site E-Commerce, réalisé dans le cadre de ma deuxième année
   - CSS
   - Bootstrap
   - PHP
+
 Une API de paiement (Crédit Agricole) a été intégrée au projet. Cependant, pour des raisons de confidentialité et de sécurité, son accès n'est pas disponible depuis ce dépôt.
 
 ### Licence
