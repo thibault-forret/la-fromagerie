@@ -1,15 +1,12 @@
-# la-fromagerie
-## Projet BUT2 Informatique - Site E-Commerce
+# 📌 La Fromagerie
 
-### Description
-Ce projet est un site E-Commerce, réalisé dans le cadre de ma deuxième année de BUT Informatique. Il a été développé en utilisant les langages suivants :
-  - HTML
-  - CSS
-  - Bootstrap
-  - PHP
+## 📖 Contexte
+Projet de groupe réalisé en 2ᵉ année de BUT Informatique.
 
-Une API de paiement (Crédit Agricole) a été intégrée au projet. Cependant, pour des raisons de confidentialité et de sécurité, son accès n'est pas disponible depuis ce dépôt.
+## 📝 Description
+Ce projet est un site e-commerce développé pour une fromagerie, permettant aux clients de parcourir et d'acheter divers produits laitiers en ligne. Le site offre une interface utilisateur intuitive pour naviguer entre les catégories de produits, consulter les détails de chaque article et effectuer des achats sécurisés.
 
-### Licence
-Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
-
+## 🛠 Technologies utilisées
+- **Langages** : HTML, CSS, PHP
+- **Framework** : Bootstrap
+- **API de paiement** : Intégration avec l'API du Crédit Agricole (accès non disponible dans ce dépôt pour des raisons de confidentialité et de sécurité)
